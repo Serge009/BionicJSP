@@ -16,7 +16,7 @@
 </head>
 <body>
 <table>
-    <tr>mm
+    <tr>
         <td>Start</td>
         <td>Long</td>
         <td>Sum</td>
